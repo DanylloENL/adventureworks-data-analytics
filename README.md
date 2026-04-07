@@ -58,7 +58,8 @@ Devido às restrições do ambiente, toda a lógica de negócio e métricas foi 
 ## 🧰 Tecnologias Utilizadas
 
 - SQL (SQLite)
-- Python (Pandas, NumPy)
+- Python (Pandas, NumPy, Requests)
+- Ingestão de dados via HTTP
 - Power BI Web
 - Git & GitHub
 
